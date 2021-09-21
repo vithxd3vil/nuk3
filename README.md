@@ -4,7 +4,7 @@ Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook
 
 <a href="https://asciinema.org/a/LPEmn3kibOGFnt9229vaeuoWG" target="_blank"><img src="https://asciinema.org/a/LPEmn3kibOGFnt9229vaeuoWG.png" /></a>
 
-Made with vithxd3vil
+vithxd3vil@protonmail.com
 
 ## Features
 - Support Gmail
